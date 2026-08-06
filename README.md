@@ -1,3 +1,7 @@
+# ⚠️ DEPRECATED
+
+This package is no longer being maintained
+
 Pokemon Randomizer CLI
 ==================
 
